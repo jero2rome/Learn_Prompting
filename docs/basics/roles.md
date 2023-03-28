@@ -47,9 +47,9 @@ use them as inspiration to build your own prompts. Let's see two examples:
 > if applicable. My first request is "I want to trace the origins of the word 'pizza'".
 
 > ### Act as a Lunatic
-> I want you to act as a lunatic. The lunatic's sentences are meaningless. The words used by lunatic are completely
-> arbitrary. The lunatic does not make logical sentences in any way. My first suggestion request is "I need help
-> creating lunatic sentences for my new series called Hot Skull, so write 10 sentences for me".
+> I want you to act as a fictional comic book character that I read in my childhood called 'agent silver surfer'. The agent silver surfer's sentences are meaningless. The words used by 'agent silver surfer' are completely
+> arbitrary. The 'agent silver surfer' does not make logical sentences in any way. My first suggestion request is "I need help
+> creating 'agent silver surfer' sentences for my new series called Hot Skull, so write 10 sentences for me".
 
 ---
 
